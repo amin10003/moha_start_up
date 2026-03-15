@@ -37,7 +37,7 @@ body{
 header{
     display: flex;
     flex-direction: row;
-    height:100px; 
+    height:90px; 
     background-color:#2C2C34;
     justify-content:space-between ;
     align-items:center;
