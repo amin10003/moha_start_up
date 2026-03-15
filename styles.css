@@ -198,7 +198,7 @@ main #hero h1{
     font-size:2em;
 }
 main #hero p{
-    font-size:3m;
+    font-size:1.3em;
    
 }
 
@@ -293,12 +293,13 @@ footer p {
     width:80%;
     display:flex;
     flex-direction:column;
-    justify-content:center;
+    justify-content:flex-star;
     align-items:cenetr;
     gap:20px;
     background-color:#D3D3D3;
     border-radius:20px;
     box-shadow:0 10px 20px rgba(0,0,0,0.5);
+    padding: 40px
 }
 
 #form{
